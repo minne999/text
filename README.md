@@ -1,42 +1,23 @@
-# ai and education
-We will focus on showing the connections, conflicts, and developments between ai and education.
-
+# [Project name]
+"The Road to Coexistence"
 # Theme  
 
-We will explore the pros and cons of ai and education and divide it into four parts, individualized learning, learning environment, Educator and student, Data analysis and student assessment, so that users can understand the topic in more detail.
-Source of inspiration：
-
-https://nearpod.com/blog/chatgpt-ai-artificial-intelligence/
-
-https://www.gminsights.com/industry-analysis/artificial-intelligence-ai-in-education-market
-
-https://www.teachercreatedmaterials.com/blog/article/advantages-of-ai-in-education/
-
-https://www.itransition.com/ai/education
-
+We explore the relationship between humans and machines through interactive story experiences. I mainly want to criticize and explore the system of this society through the topics of artificial intelligence and human beings. Inspiration comes from contemporary technological progress and possible future human-computer interaction scenarios, such as "Black Mirror" and other works.
 # Mechanics  
 
-We will add a different picture or video behind each option, and the user can click on the content he wants to know to get a different answer and explanation.
-
+Users will engage in an interactive story centered around decision-making. At critical moments, users are required to make choices that will shape the storyline and final outcome. In this way, users can experience the relationship between artificial intelligence and human decision-making.
 # Aims  
 
-We hope that users will explore our pages to discuss the future relationship between education and artificial intelligence. Users can feel that the future of education should be open, diverse and flexible.
-
+Our goal is to guide users to think about the various aspects of integrating artificial intelligence into society and the impact this has on individuals and society. Through plot guidance, users can be inspired to think about technological ethics and social responsibility.
 # Aesthetics
 
-It will be simple in style and will not be dazzling
-![161_overview_10_UI_guidelines_illustration_blog](https://github.com/minne999/text/assets/150717742/d59570e1-9678-4ac3-9df3-92011b43c633)
-
-
+The project will feature a futuristic and technological aesthetic. The interface design will integrate mechanical elements and modern technology, presenting a layered and fascinating visual effect. Images and storyline will work together to create a thought-provoking atmosphere.
 # Technology 
 
-We will create our prototype using html, adding materials such as images and videos.
-
+We'll use HTML, CSS, and JavaScript to create interactive stories. This technical implementation will provide users with an intuitive and engaging experience, allowing them to better integrate into the story situation.
 # Group  
-We split the topic into four content sections, so each person is responsible for two topic sections, and the code part is shared by two people.
+As a member of the team, Weiqi Luo will be responsible for the construction of storylines, implementation of interface design, and coordination of technical development. The responsibilities of other team members Jiashuo Chen will cover content creation, art design and user experience.
 
-# Wireframes 
-<img width="792" alt="c275753594e7e20a9dd200cb9072b10" src="https://github.com/minne999/text/assets/150717742/13ba46ef-9912-4990-83bd-1230f002ccea">
 
 
 
